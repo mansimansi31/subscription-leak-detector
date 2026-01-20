@@ -1,0 +1,10 @@
+date,merchant,amount,description
+2025-01-01,Netflix,10.99,Monthly plan
+2025-02-01,Netflix,10.99,Monthly plan
+2025-03-01,Netflix,10.99,Monthly plan
+2025-01-15,Spotify,11.99,Music
+2025-02-15,Spotify,11.99,Music
+2025-03-15,Spotify,12.99,Price increase
+2025-01-05,Amazon Prime,8.99,Prime
+2025-02-05,Amazon Prime,8.99,Prime
+2025-03-05,Amazon Prime,8.99,Prime
